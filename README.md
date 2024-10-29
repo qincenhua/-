@@ -1,4 +1,4 @@
-# -
+# Genshin Impact one-stop service
 class CrescentCompanion:
     def __init__(self):
         self.name = "新月同行游戏助手"
